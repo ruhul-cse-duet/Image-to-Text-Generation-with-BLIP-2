@@ -62,7 +62,7 @@ IMAGE-TO-TEXT-GENERATION-WITH-BLIP-2/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/image-to-text-blip2.git
+https://github.com/ruhul-cse-duet/Image-to-Text-Generation-with-BLIP-2.git
 cd image-to-text-blip2
 
 ```
