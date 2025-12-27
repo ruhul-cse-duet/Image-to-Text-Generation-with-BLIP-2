@@ -1,6 +1,12 @@
 Flask==2.3.3
 python-dotenv==1.1.0
 Pillow==11.1.0
-transformers>=4.45.2
+transformers>=4.57.2
 accelerate>=0.20.0
 torch>=2.7.1
+werkzeug>=2.3.7
+numpy>=1.26.0
+
+
+# python 3.12.12
+
